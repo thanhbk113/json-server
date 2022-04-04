@@ -116,5 +116,21 @@
       "comment": "Review 1 for product id 3",
       "productId": 3
     }
+  ],
+  "userBuy": [
+    {
+      "id": 1,
+      "customerName": "Thanh",
+      "phoneNumber": "0908192",
+      "productBuy": {
+        "category": [
+          {
+            "name": "electronics",
+            "amount": 3,
+            "totalMoney": 4000
+          }
+        ]
+      }
+    }
   ]
 }
