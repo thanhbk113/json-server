@@ -138,41 +138,41 @@
       "totalMoney": 14
     }
   ],
-  export const currentBus = [
+  "currentBus" : [
     {
-      name: "Bến Xe Buýt Sài Gòn - BX Chợ Lớn.",
-      valueS: "3000",
-      valueL: "6000",
+      "name": "Bến Xe Buýt Sài Gòn - BX Chợ Lớn.",
+     " valueS": 3000,
+      "valueL": 6000,
     },
     {
-      name: "Bến Thành- Thạnh Lộc.",
-      valueS: "3000",
-      valueL: "6000",
+      "name": "Bến Thành- Thạnh Lộc.",
+      "valueS": 3000,
+      "valueL": 6000,
     },
     {
-      name: "Bến Xe Buýt Sài Gòn- Cộng Hòa - Bến Xe An Sương.",
-      valueS: "3000",
-      valueL: "6000",
+      "name": "Bến Xe Buýt Sài Gòn- Cộng Hòa - Bến Xe An Sương.",
+      "valueS": 3000,
+      "valueL": 6000,
     },
     {
-      name: "Bến xe Chợ Lớn - Biên Hòa.",
-      valueS: "3000",
-      valueL: "6000",
+      "name": "Bến xe Chợ Lớn - Biên Hòa.",
+      "valueS": 3000,
+      "valueL": 6000,
     },
     {
-      name: "Bến xe Chợ Lớn- Đại học Nông Lâm.",
-      valueS: "3000",
-      valueL: "6000",
+      "name": "Bến xe Chợ Lớn- Đại học Nông Lâm.",
+      "valueS": 3000,
+      "valueL": 6000,
     },
     {
-      name: "Bến xe Quận 8- Đại học Quốc Gia.",
-      valueS: "3000",
-      valueL: "6000",
+      "name": "Bến xe Quận 8- Đại học Quốc Gia.",
+      "valueS": 3000,
+      "valueL": 6000,
     },
     {
-      name: "Bến Xe Buýt Sài Gòn - BX Chợ Lớn.",
-      valueS: "3000",
-      valueL: "6000",
+     " name": "Bến Xe Buýt Sài Gòn - BX Chợ Lớn.",
+      "valueS": 3000,
+      "valueL": 6000,
     },
   ];
   
